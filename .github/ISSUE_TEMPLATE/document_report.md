@@ -1,8 +1,12 @@
+---
 name: document report
 about: Crea un reporte de error para ayudarnos a mejorar
 title: "[document] Descripción breve"
 labels: document
 assignees: ''
+---
+
+
 ---
 
 **Describe el error**
