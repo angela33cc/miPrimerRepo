@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/miPrimerRepo/probando/probando.csproj": {}
+    "/workspaces/miPrimerRepo/Proyecto1/probando/probando.csproj": {}
   },
   "projects": {
-    "/workspaces/miPrimerRepo/probando/probando.csproj": {
+    "/workspaces/miPrimerRepo/Proyecto1/probando/probando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/miPrimerRepo/probando/probando.csproj",
+        "projectUniqueName": "/workspaces/miPrimerRepo/Proyecto1/probando/probando.csproj",
         "projectName": "probando",
-        "projectPath": "/workspaces/miPrimerRepo/probando/probando.csproj",
+        "projectPath": "/workspaces/miPrimerRepo/Proyecto1/probando/probando.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/miPrimerRepo/probando/obj/",
+        "outputPath": "/workspaces/miPrimerRepo/Proyecto1/probando/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
